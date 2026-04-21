@@ -42,7 +42,7 @@ streamlit run app/main.py
 Breast Cancer Wisconsin (Diagnostic) Dataset (Kaggle)
 
 ## ⚠️ Disclaimer
-For educational purposes only. Not for medical use.
+For educational purposes only. Not for medical use.```
 
 ## 👤 Author
 Devin
